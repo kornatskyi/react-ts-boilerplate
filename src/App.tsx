@@ -8,7 +8,7 @@ export default function App() {
 
       <p>if background has a color it means that scss was loaded</p>
 
-      <img src={img} alt="" />
+      {/* <img src={img} alt="" /> */}
     </div>
   )
 }
